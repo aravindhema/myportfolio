@@ -1,0 +1,83 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    About Me
+{% endblock %}
+
+
+{% block main %}
+
+    <div class="text-left" style="background-color:powderblue;">
+        <br><h4>ABOUT ME</h4>
+        <p> I am an software developer with over 12 years experience. 
+            I've been doing small projects in data science and python since 2018. 
+            I have good knowledge of exploratory data analysis and machine learning. 
+            I have exposure to Flask and Django web frameworks as well</p><br>
+    </div>
+
+
+    <div class="text-left"> 
+            <br><h4>My Skills</h4>
+    </div>
+    <div class="row row-legend justify-content-center">
+        <div class="col-12 p-0 text-center">
+            <p>
+                1 - Basic<span class="about-legend"></span>
+                2 - Novice<span class="about-legend"></span>
+                3 - Intermediate
+            </p>
+            <p class="m-0">
+                4 - Advanced<span class="about-legend"></span>
+                5 - Expert
+            </p>
+        </div>
+    </div>
+
+    <div class="row about-row justify-content-center">
+        {% for value in skill_dict %}
+        <div class="col-lg-3 col-md-6 col-12">
+            <div class="skill-cat text-center">
+                <p>{{ ' ' }}</p>
+            </div>
+        <div class="row">
+                {% set level = value['Level']/5*100 %}
+                    <div class="col-12 text-left">
+                        <p>{{  value['Skill'] }} - {{ value['Level'] }}</p>
+                        <div class="skill-bar">
+                            <div class="skill-spec" style="width: {{ level }}%;">
+                            </div>
+                            <span class="tooltiptext">{{ value['Level'] }}</span>
+                        </div>
+                    </div>
+        </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="timeline" style="background-color:powderblue;">
+    <div class="text-left" > 
+        <br><h4>Learnings/Certifications</h4>
+    </div>  
+
+    
+        <div class="container-timeline left">
+            <div class="content">
+                        <p><li><a target="_blank" class="about-link" href="https://www.coursera.org">Applied Machine Learning with Python</a></li>
+                            Exploratory data analysis, Regression, Classification, SVM, Unsupervised ML
+                            <br>
+                            <li><a target="_blank" class="about-link" href="https://www.udacity.com">Deep Learning Nanodegree</a></li>
+                            Tensorflow, Pytorch, Deep Learning for NLP, Image classification 
+                            <br>
+                            <li><a target="_blank" class="about-link" href="https://www.coursera.org">IBM Data Science</a></li>
+                            Data Analysis and Visualization with Python, Databases and SQL for data science
+                            <li><a target="_blank" class="about-link" href="https://www.coursera.org">Basic Statistics</a></li>
+                            Probablity, Statistical distributions,Variance, Correlation
+                        </p>
+     
+            </div>
+        </div>
+    </div>
+         
+
+
+{% endblock %}
