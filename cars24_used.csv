@@ -1,0 +1,577 @@
+,Model,Make,Transmission,Engine,Year,KM,Price,Owner
+0,MarutiAlto,LXI Manual,Manual,Petrol,2020,"3,494 km","₹4,19,599",1st Owner
+1,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2014,"18,371 km","₹3,54,499",1st Owner
+2,MarutiSwift,LXI Manual,Manual,Petrol,2019,"2,484 km","₹5,86,699",1st Owner
+3,RenaultKwid,1.0 RXT Opt AT Automatic,Automatic,Petrol,2020,"4,824 km","₹4,83,299",1st Owner
+4,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2014,"10,131 km","₹4,92,099",1st Owner
+5,MarutiAlto800,LXI Manual,Manual,Petrol,2015,"23,689 km","₹2,91,999",1st Owner
+6,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2015,"25,650 km","₹3,82,699",1st Owner
+7,HyundaiEon,SPORTZ Manual,Manual,Petrol,2015,"15,346 km","₹3,01,299",3rd Owner
+8,TataTiago,XT 1.2 REVOTRON Manual,Manual,Petrol,2018,"11,253 km","₹4,86,799",1st Owner
+9,MarutiAlto800,VXI Manual,Manual,Petrol,2017,"21,239 km","₹3,20,999",1st Owner
+10,TataTiago,XZ 1.2 REVOTRON Manual,Manual,Petrol,2018,"12,997 km","₹5,36,599",1st Owner
+11,RenaultKwid,1.0 RXT Opt Manual,Manual,Petrol,2017,"15,013 km","₹3,86,799",1st Owner
+12,MarutiWagonR1.0,VXI OPT AMT Automatic,Automatic,Petrol,2016,"32,050 km","₹4,18,999",1st Owner
+13,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2017,"24,142 km","₹4,05,399",1st Owner
+14,MarutiAlto800,LXI Manual,Manual,Petrol,2013,"44,177 km","₹2,57,499",1st Owner
+15,MarutiAlto800,LXI Manual,Manual,Petrol,2015,"22,504 km","₹2,94,599",3rd Owner
+16,MarutiAltoK10,VXI Manual,Manual,Petrol,2013,"7,304 km","₹2,89,199",1st Owner
+17,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2018,"18,502 km","₹4,42,299",1st Owner
+18,MarutiAltoK10,VXI Manual,Manual,Petrol,2015,"20,973 km","₹3,11,199",1st Owner
+19,MarutiAlto800,LXI Manual,Manual,Petrol,2017,"12,389 km","₹3,22,199",1st Owner
+20,MarutiOMNIE,8 STR ,,Petrol,2017,"1,193 km","₹3,50,499",1st Owner
+21,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"38,650 km","₹3,49,899",2nd Owner
+22,MarutiAltoK10,VXI AMT Manual,Manual,Petrol,2016,"19,487 km","₹3,60,499",1st Owner
+23,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2016,"15,549 km","₹4,31,199",1st Owner
+24,MarutiAlto800,LXI Manual,Manual,Petrol,2014,"24,198 km","₹2,72,299",1st Owner
+25,HyundaiEon,ERA PLUS Manual,Manual,Petrol,2017,"23,727 km","₹3,55,199",1st Owner
+26,MarutiAlto,VXI Manual,Manual,Petrol,2019,"13,595 km","₹3,83,099",2nd Owner
+27,MarutiAStar,VXI ABS AT Automatic,Automatic,Petrol,2013,"24,970 km","₹2,98,399",2nd Owner
+28,MarutiAlto800,LXI Manual,Manual,Petrol,2017,"8,236 km","₹3,13,999",1st Owner
+29,MarutiAlto800,LXI Manual,Manual,Petrol,2014,"27,562 km","₹2,66,199",1st Owner
+30,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2017,"9,328 km","₹4,21,099",1st Owner
+31,MarutiCelerio,VXI AMT Automatic,Automatic,Petrol,2015,"25,662 km","₹3,93,399",2nd Owner
+32,MarutiDzire,VXI Manual,Manual,Petrol,2019,"14,982 km","₹6,53,699",1st Owner
+33,MarutiAltoK10,VXI AMT ,,Petrol,2015,"31,802 km","₹3,26,299",2nd Owner
+34,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2017,"30,184 km","₹4,44,799",1st Owner
+35,Hyundaii20,SPORTZ 1.2 VTVT Manual,Manual,Petrol,2014,"33,697 km","₹4,24,399",2nd Owner
+36,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2017,"24,080 km","₹4,58,699",1st Owner
+37,HyundaiGrandi10,SPORTZ 1.2 KAPPA VTVT Manual,Manual,Petrol,2016,"20,090 km","₹4,56,099",2nd Owner
+38,FordEcosport,1.5 TITANIUM TI VCT AT Automatic,Automatic,Petrol,2015,"30,005 km","₹5,75,799",2nd Owner
+39,MarutiCelerio,VXI AMT Automatic,Automatic,Petrol,2015,"35,228 km","₹4,00,599",1st Owner
+40,MarutiAltoK10,VXI OPT Manual,Manual,Petrol,2018,"6,282 km","₹3,98,699",1st Owner
+41,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2014,"37,398 km","₹3,83,099",1st Owner
+42,MarutiAlto800,LXI Manual,Manual,Petrol,2013,"42,438 km","₹2,60,399",1st Owner
+43,MarutiWagonR1.0,VXI AMT Automatic,Automatic,Petrol,2018,"20,945 km","₹5,01,399",1st Owner
+44,MarutiAltoK10,VXI AMT ,,Petrol,2016,"14,006 km","₹3,61,599",2nd Owner
+45,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2020,"11,025 km","₹4,28,999",1st Owner
+46,MarutiSPRESSO,VXI PLUS AGS Automatic,Automatic,Petrol,2020,"8,895 km","₹5,03,999",1st Owner
+47,HyundaiElitei20,ERA 1.2 Manual,Manual,Petrol,2015,"9,580 km","₹4,66,099",1st Owner
+48,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2016,"33,463 km","₹3,88,699",1st Owner
+49,MarutiAlto800,LXI Manual,Manual,Petrol,2016,"18,251 km","₹2,94,699",2nd Owner
+50,TataTiago,XZ 1.2 REVOTRON Manual,Manual,Petrol,2017,"35,966 km","₹4,49,499",1st Owner
+51,MarutiAlto800,LXI Manual,Manual,Petrol,2015,"22,321 km","₹2,81,699",1st Owner
+52,RenaultKwid,RXT Manual,Manual,Petrol,2015,"46,226 km","₹3,15,199",2nd Owner
+53,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2017,"18,782 km","₹4,19,599",2nd Owner
+54,MarutiAlto800,LXI Manual,Manual,Petrol,2017,"23,201 km","₹3,07,999",1st Owner
+55,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2017,"21,025 km","₹3,98,199",1st Owner
+56,MarutiAlto800,LXI Manual,Manual,Petrol,2013,"43,405 km","₹2,54,899",1st Owner
+57,MarutiAltoK10,LXI Manual,Manual,Petrol,2013,"37,870 km","₹2,67,899",1st Owner
+58,MarutiEeco,5 STR WITH AC PLUS HTR Manual,Manual,Petrol,2016,"29,906 km","₹3,61,899",1st Owner
+59,FordFigo,1.2 TITANIUM DURATEC Manual,Manual,Petrol,2014,"41,176 km","₹3,31,299",2nd Owner
+60,RenaultKwid,RXT 1.0 EASY-R AT OPTION Automatic,Automatic,Petrol,2018,"16,906 km","₹4,05,199",2nd Owner
+61,MarutiAlto800,LXI Manual,Manual,Petrol,2019,"10,336 km","₹3,59,299",1st Owner
+62,Hyundaii10,SPORTZ 1.1 IRDE2 Manual,Manual,Petrol,2015,"40,503 km","₹3,88,399",1st Owner
+63,MarutiAlto800,VXI Manual,Manual,Petrol,2018,"20,711 km","₹3,75,599",1st Owner
+64,Hyundaii10,MAGNA 1.1 IRDE2 Manual,Manual,Petrol,2016,"28,477 km","₹3,96,599",2nd Owner
+65,MarutiSwift,VXI Manual,Manual,Petrol,2017,"16,944 km","₹6,15,299",1st Owner
+66,HondaBrio,1.2 S MT I VTEC Manual,Manual,Petrol,2013,"49,299 km","₹3,27,199",2nd Owner
+67,MarutiAlto800,LXI Manual,Manual,Petrol,2018,"17,986 km","₹3,50,699",1st Owner
+68,MarutiAlto800,VXI Manual,Manual,Petrol,2018,"17,703 km","₹3,62,999",2nd Owner
+69,MarutiOMNIE,8 STR ,,Petrol,2018,"15,762 km","₹3,13,799",1st Owner
+70,MarutiAltoK10,VXI Manual,Manual,Petrol,2017,"36,539 km","₹3,18,899",2nd Owner
+71,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2016,"32,196 km","₹3,96,899",1st Owner
+72,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2020,"8,721 km","₹4,99,599",1st Owner
+73,MarutiAlto800,LXI Manual,Manual,Petrol,2017,"25,712 km","₹3,08,699",1st Owner
+74,HyundaiNEWSANTRO,1.1 SPORTS AMT ,,Petrol,2018,"11,119 km","₹5,66,399",1st Owner
+75,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2014,"18,020 km","₹4,81,699",1st Owner
+76,MarutiAlto800,LXI Manual,Manual,Petrol,2018,"7,431 km","₹3,39,399",1st Owner
+77,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"30,782 km","₹3,53,499",1st Owner
+78,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"50,429 km","₹3,41,899",1st Owner
+79,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2018,"20,780 km","₹4,09,099",1st Owner
+80,Hyundaii10,MAGNA 1.1 IRDE2 Manual,Manual,Petrol,2016,"26,280 km","₹4,08,699",1st Owner
+81,MarutiWagonR1.0,VXI PLUS AMT Automatic,Automatic,Petrol,2018,"16,640 km","₹4,87,599",1st Owner
+82,MarutiWagonR1.0,VXI OPT AMT Automatic,Automatic,Petrol,2017,"19,552 km","₹5,06,599",1st Owner
+83,MarutiAlto800,LXI OPT Manual,Manual,Petrol,2018,"21,679 km","₹3,21,699",1st Owner
+84,HyundaiEon,MAGNA PLUS Manual,Manual,Petrol,2015,"40,102 km","₹2,91,099",1st Owner
+85,HyundaiElitei20,MAGNA 1.2 Manual,Manual,Petrol,2015,"49,067 km","₹4,69,999",1st Owner
+86,MarutiOMNIE,8 STR Manual,Manual,Petrol,2017,"27,387 km","₹2,89,799",1st Owner
+87,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"7,018 km","₹4,58,499",1st Owner
+88,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"9,891 km","₹4,48,899",1st Owner
+89,MarutiAlto800,VXI Manual,Manual,Petrol,2018,"7,765 km","₹3,50,199",1st Owner
+90,FordNewFigo,1.2 TITANIUM Manual,Manual,Petrol,2017,"19,376 km","₹5,24,499",1st Owner
+91,HondaJazz,VX  1.2 Manual,Manual,Petrol,2017,"11,440 km","₹5,96,399",1st Owner
+92,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2018,"6,145 km","₹4,12,399",1st Owner
+93,MarutiAlto800,LXI OPT Manual,Manual,Petrol,2018,"9,670 km","₹3,20,399",1st Owner
+94,HyundaiElitei20,Magna Executive 1.2 Manual,Manual,Petrol,2018,"17,880 km","₹6,29,499",1st Owner
+95,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"48,821 km","₹3,52,699",1st Owner
+96,MarutiAlto800,LXI Manual,Manual,Petrol,2018,"19,805 km","₹3,46,799",1st Owner
+97,MarutiCelerio,VXI Manual,Manual,Petrol,2014,"46,780 km","₹3,65,699",1st Owner
+98,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2013,"41,318 km","₹4,30,999",2nd Owner
+99,HyundaiNEWSANTRO,SPORTZ 1.1 Manual,Manual,Petrol,2019,"11,529 km","₹4,97,199",1st Owner
+100,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2014,"45,421 km","₹4,74,999",2nd Owner
+101,HondaJazz,1.2 SV MT Manual,Manual,Petrol,2018,"27,869 km","₹5,78,899",1st Owner
+102,Hyundaii10,MAGNA 1.1 IRDE2 Manual,Manual,Petrol,2014,"49,378 km","₹3,50,199",1st Owner
+103,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2020,"3,351 km","₹4,73,299",1st Owner
+104,HyundaiGrandi10,SPORTZ (O) 1.2 AT VTVT Manual,Manual,Petrol,2017,"24,297 km","₹5,51,199",1st Owner
+105,MarutiOMNIE,8 STR ,,Petrol + LPG,2017,"26,568 km","₹3,27,499",1st Owner
+106,MarutiAltoK10,VXI Manual,Manual,Petrol,2014,"41,920 km","₹2,84,599",1st Owner
+107,HondaAmaze,1.2 SMT I VTEC Manual,Manual,Petrol,2019,"25,356 km","₹6,31,399",1st Owner
+108,HyundaiGrandi10,MAGNA AT 1.2 KAPPA VTVT Automatic,Automatic,Petrol,2018,"12,345 km","₹5,57,599",1st Owner
+109,MarutiBaleno,ZETA 1.2 K12 Manual,Manual,Petrol,2016,"37,783 km","₹6,22,699",1st Owner
+110,TataTiago,XZ 1.2 REVOTRON Manual,Manual,Petrol,2016,"42,986 km","₹4,16,199",1st Owner
+111,MarutiAlto800,LXI OPT Manual,Manual,Petrol,2018,"23,268 km","₹3,46,299",1st Owner
+112,MarutiAlto800,VXI Manual,Manual,Petrol,2016,"34,151 km","₹2,79,399",2nd Owner
+113,VolkswagenPolo,COMFORTLINE 1.2L PETROL Manual,Manual,Petrol,2017,"44,883 km","₹4,44,699",2nd Owner
+114,HyundaiGrandi10,SPORTZ 1.2 KAPPA VTVT Manual,Manual,Petrol,2018,"16,300 km","₹5,75,199",1st Owner
+115,MarutiSwift,VXI Manual,Manual,Petrol,2015,"40,987 km","₹4,66,699",1st Owner
+116,MarutiIGNIS,DELTA 1.2 K12 AMT Automatic,Automatic,Petrol,2019,"12,620 km","₹5,71,899",1st Owner
+117,MarutiCelerio,VXI AMT Automatic,Automatic,Petrol,2016,"42,413 km","₹4,18,299",1st Owner
+118,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"52,259 km","₹3,40,799",2nd Owner
+119,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2013,"53,876 km","₹4,32,199",2nd Owner
+120,HyundaiEon,ERA PLUS (O) Manual,Manual,Petrol,2017,"35,527 km","₹3,35,999",1st Owner
+121,HondaBrio,1.2 VX MT I VTEC Manual,Manual,Petrol,2016,"56,493 km","₹3,99,399",1st Owner
+122,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2017,"24,401 km","₹4,25,599",1st Owner
+123,HyundaiElitei20,ASTA 1.2 (O) Manual,Manual,Petrol,2016,"30,742 km","₹6,10,999",1st Owner
+124,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"15,497 km","₹4,67,399",1st Owner
+125,HyundaiElitei20,Magna Executive 1.2 Manual,Manual,Petrol,2018,"13,547 km","₹6,36,999",1st Owner
+126,NissanMicraActive,XL(O) Manual,Manual,Petrol,2018,"11,938 km","₹5,07,999",1st Owner
+127,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2020,"7,284 km","₹4,91,999",1st Owner
+128,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2019,"19,564 km","₹5,36,799",1st Owner
+129,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2020,"1,289 km","₹4,82,199",1st Owner
+130,MarutiAlto800,LXI Manual,Manual,Petrol,2016,"41,120 km","₹2,77,599",2nd Owner
+131,HyundaiNEWSANTRO,1.1 SPORTS AMT Automatic,Automatic,Petrol,2019,"7,696 km","₹5,67,099",1st Owner
+132,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2018,"9,716 km","₹5,44,699",1st Owner
+133,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2013,"43,991 km","₹4,65,699",1st Owner
+134,HyundaiElitei20,MAGNA 1.2 Manual,Manual,Petrol,2016,"14,452 km","₹5,62,399",1st Owner
+135,HyundaiEon,ERA PLUS Manual,Manual,Petrol,2016,"36,422 km","₹3,02,099",1st Owner
+136,HondaJazz,VX  1.2 Manual,Manual,Petrol,2017,"38,330 km","₹5,47,099",2nd Owner
+137,MarutiSPRESSO,VXI PLUS Manual,Manual,Petrol,2019,"18,436 km","₹4,10,599",1st Owner
+138,HyundaiGrandi10,MAGNA 1.2 KAPPA VTVT Manual,Manual,Petrol,2017,"33,960 km","₹4,47,599",1st Owner
+139,TataTiago,XZ 1.2 REVOTRON Manual,Manual,Petrol,2018,"9,776 km","₹5,33,899",1st Owner
+140,HyundaiEon,MAGNA PLUS Manual,Manual,Petrol,2016,"42,946 km","₹2,86,299",2nd Owner
+141,MarutiAltoK10,VXI Manual,Manual,Petrol,2015,"51,629 km","₹2,90,899",2nd Owner
+142,HyundaiGrandi10,MAGNA 1.2 VTVT Manual,Manual,Petrol,2018,"19,410 km","₹4,87,899",1st Owner
+143,MarutiBaleno,DELTA 1.2 K12 Manual,Manual,Petrol,2018,"28,264 km","₹6,04,999",2nd Owner
+144,MarutiAltoK10,VXI Manual,Manual,Petrol,2014,"45,043 km","₹2,61,599",2nd Owner
+145,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"50,366 km","₹3,69,399",1st Owner
+146,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"25,091 km","₹4,66,799",1st Owner
+147,HyundaiGrandi10,MAGNA 1.2 VTVT Manual,Manual,Petrol,2013,"57,716 km","₹3,67,799",2nd Owner
+148,MarutiOMNIE,STD ,,Petrol,2018,"11,041 km","₹2,99,499",1st Owner
+149,MarutiAlto800,LXI Manual,Manual,Petrol,2016,"55,293 km","₹2,71,699",1st Owner
+150,MarutiSwift,VXI Manual,Manual,Petrol,2014,"3,600 km","₹4,48,999",1st Owner
+151,HyundaiGrandi10,MAGNA 1.2 KAPPA VTVT Manual,Manual,Petrol,2015,"50,398 km","₹4,16,599",2nd Owner
+152,HyundaiGrandi10,ASTA 1.2 AT VTVT Automatic,Automatic,Petrol,2015,"41,689 km","₹4,80,099",1st Owner
+153,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2017,"31,006 km","₹6,32,499",1st Owner
+154,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"15,028 km","₹4,51,399",1st Owner
+155,MarutiAlto800,LXI Manual,Manual,Petrol,2013,"58,171 km","₹2,63,499",2nd Owner
+156,MarutiDzire,VXI Manual,Manual,Petrol,2018,"16,693 km","₹6,75,699",1st Owner
+157,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2017,"31,886 km","₹5,96,299",1st Owner
+158,HyundaiGrandi10,ASTA 1.2 KAPPA VTVT OPT Manual,Manual,Petrol,2016,"45,345 km","₹4,71,299",2nd Owner
+159,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"20,162 km","₹4,67,899",1st Owner
+160,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2014,"67,678 km","₹3,43,099",2nd Owner
+161,HyundaiGrandi10,SPORTZ 1.2 KAPPA VTVT Manual,Manual,Petrol,2018,"21,790 km","₹5,19,999",2nd Owner
+162,MarutiAlto800,LXI Manual,Manual,Petrol,2017,"35,253 km","₹3,16,499",1st Owner
+163,HyundaiElitei20,MAGNA 1.2 Manual,Manual,Petrol,2015,"55,425 km","₹5,41,499",1st Owner
+164,MahindraTUV300,T8 Manual,Manual,Diesel,2016,"51,530 km","₹6,53,899",1st Owner
+165,MarutiCelerio,VXI Manual,Manual,Petrol,2015,"48,794 km","₹3,44,099",2nd Owner
+166,MahindraTUV300,T8 Manual,Manual,Diesel,2015,"56,469 km","₹6,49,299",1st Owner
+167,MarutiSwift,VXI OPT Manual,Manual,Petrol,2017,"23,798 km","₹5,26,699",1st Owner
+168,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2016,"46,150 km","₹5,86,099",1st Owner
+169,HyundaiGrandi10,1.2 KAPPA SPORTZ (O) Manual,Manual,Petrol,2017,"35,002 km","₹4,76,599",1st Owner
+170,HyundaiGrandi10,MAGNA 1.2 KAPPA VTVT Manual,Manual,Petrol,2017,"8,643 km","₹5,03,199",1st Owner
+171,MarutiAlto800,VXI Manual,Manual,Petrol,2016,"50,541 km","₹2,74,399",2nd Owner
+172,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"57,595 km","₹3,46,499",2nd Owner
+173,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"18,775 km","₹4,73,899",1st Owner
+174,MarutiCelerio,ZXI AMT Automatic,Automatic,Petrol,2016,"43,766 km","₹4,42,899",1st Owner
+175,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2019,"10,937 km","₹5,70,699",1st Owner
+176,HyundaiNEWSANTRO,1.1 SPORTS AMT Manual,Manual,Petrol,2018,"31,012 km","₹5,52,299",1st Owner
+177,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2020,"9,375 km","₹4,24,799",1st Owner
+178,MarutiSwift,VXI Manual,Manual,Petrol,2017,"35,330 km","₹5,43,099",1st Owner
+179,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2019,"17,283 km","₹5,96,799",1st Owner
+180,MarutiAlto800,VXI Manual,Manual,Petrol,2018,"13,741 km","₹3,37,899",1st Owner
+181,HyundaiElitei20,ERA 1.2 Manual,Manual,Petrol,2018,"25,870 km","₹5,73,499",2nd Owner
+182,MarutiBaleno,DELTA 1.2 K12 Manual,Manual,Petrol,2019,"14,938 km","₹6,66,199",1st Owner
+183,MarutiCelerio,ZXI Manual,Manual,Petrol,2015,"51,864 km","₹4,01,099",1st Owner
+184,MarutiBaleno,DELTA 1.2 K12 Manual,Manual,Petrol,2016,"43,630 km","₹5,98,499",1st Owner
+185,MarutiSwift,VDI Manual,Manual,Diesel,2013,"67,328 km","₹4,13,999",2nd Owner
+186,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2018,"35,927 km","₹4,44,999",1st Owner
+187,HondaCity,V MT PETROL Manual,Manual,Petrol,2017,"34,425 km","₹8,14,299",1st Owner
+188,HondaJazz,VX  1.2 Manual,Manual,Petrol,2019,"6,815 km","₹7,36,199",1st Owner
+189,TataTiago,XZ 1.2 REVOTRON Manual,Manual,Petrol,2017,"54,117 km","₹4,03,999",2nd Owner
+190,MarutiAltoK10,VXI OPT Manual,Manual,Petrol,2018,"35,899 km","₹3,57,199",1st Owner
+191,HyundaiElitei20,Magna Executive 1.2 Manual,Manual,Petrol,2018,"33,908 km","₹5,95,399",1st Owner
+192,MarutiSwift,VXI Manual,Manual,Petrol,2019,"25,719 km","₹6,28,299",1st Owner
+193,MarutiAlto800,LXI Manual,Manual,Petrol,2018,"29,975 km","₹2,80,999",2nd Owner
+194,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2013,"61,514 km","₹4,12,999",3rd Owner
+195,MarutiCelerio,VXI (O) Manual,Manual,Petrol,2017,"42,636 km","₹4,34,099",1st Owner
+196,HyundaiNEWSANTRO,1.1 SPORTS AMT ,,Petrol,2019,"3,243 km","₹5,50,299",1st Owner
+197,HondaMobilio,1.5 V I DTEC Manual,Manual,Diesel,2014,"78,595 km","₹4,75,299",1st Owner
+198,MarutiBaleno,ALPHA 1.2 K12 Manual,Manual,Petrol,2016,"29,711 km","₹6,17,099",1st Owner
+199,HyundaiEon,ERA PLUS Manual,Manual,Petrol,2017,"42,159 km","₹3,32,299",1st Owner
+200,MarutiCiaz,ALPHA 1.4 VVT Manual,Manual,Petrol,2018,"27,384 km","₹7,03,699",2nd Owner
+201,RenaultKwid,RXT Manual,Manual,Petrol,2017,"42,259 km","₹3,28,599",2nd Owner
+202,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2015,"59,786 km","₹3,50,099",2nd Owner
+203,Hyundaii10,SPORTZ 1.1 IRDE2 Manual,Manual,Petrol,2015,"56,757 km","₹3,97,199",1st Owner
+204,HyundaiNEWSANTRO,SPORTZ 1.1 Manual,Manual,Petrol,2019,"20,728 km","₹4,85,599",1st Owner
+205,MarutiAlto800,LXI Manual,Manual,Petrol,2014,"56,719 km","₹2,51,899",1st Owner
+206,MarutiCelerio,ZXI OPT AMT Automatic,Automatic,Petrol,2016,"47,851 km","₹4,02,799",3rd Owner
+207,MarutiSwift,VXI Manual,Manual,Petrol,2017,"15,308 km","₹5,75,999",1st Owner
+208,MarutiSwift,VXI OPT Manual,Manual,Petrol,2017,"42,061 km","₹5,29,699",1st Owner
+209,MarutiSwift,VXI AMT Automatic,Automatic,Petrol,2019,"7,808 km","₹6,68,199",1st Owner
+210,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"23,090 km","₹4,28,299",1st Owner
+211,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2018,"15,813 km","₹5,19,799",1st Owner
+212,MarutiSwift,VXI Manual,Manual,Petrol,2016,"48,512 km","₹4,68,399",2nd Owner
+213,RenaultTRIBER,1.0 RXZ Manual,Manual,Petrol,2019,"13,476 km","₹6,70,699",1st Owner
+214,HondaCity,SV MT PETROL Manual,Manual,Petrol,2015,"42,617 km","₹5,99,699",2nd Owner
+215,MarutiAltoK10,VXI Manual,Manual,Petrol,2018,"30,899 km","₹3,20,099",1st Owner
+216,VolkswagenPolo,HIGHLINE1.2L PETROL Manual,Manual,Petrol,2015,"39,763 km","₹5,05,599",2nd Owner
+217,MarutiWagonR1.0,VXI OPT Manual,Manual,Petrol,2017,"42,080 km","₹4,21,299",2nd Owner
+218,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2018,"24,679 km","₹5,45,899",1st Owner
+219,MarutiSwift,VXI Manual,Manual,Petrol,2018,"31,935 km","₹5,97,199",1st Owner
+220,Hyundaii20Active,1.2 S Manual,Manual,Petrol,2015,"48,628 km","₹5,45,499",1st Owner
+221,MarutiCelerio,VXI Manual,Manual,Petrol,2019,"13,079 km","₹4,98,299",1st Owner
+222,FordNewFigo,1.5 TITANIUM Manual,Manual,Diesel,2017,"31,011 km","₹5,16,999",2nd Owner
+223,HyundaiElitei20,SPORTZ (O) 1.2 Manual,Manual,Petrol,2015,"50,078 km","₹5,69,899",1st Owner
+224,MarutiOMNIE,STD Manual,Manual,Petrol,2017,"69,208 km","₹3,03,999",1st Owner
+225,Hyundaii20,SPORTZ 1.4 CRDI Manual,Manual,Diesel,2013,"69,617 km","₹3,55,899",1st Owner
+226,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"61,203 km","₹3,43,299",2nd Owner
+227,MarutiAlto800,LXI Manual,Manual,Petrol,2013,"64,676 km","₹2,08,899",1st Owner
+228,MarutiAlto800,LXI Manual,Manual,Petrol,2016,"47,745 km","₹2,73,599",1st Owner
+229,HyundaiEon,ERA PLUS Manual,Manual,Petrol,2017,"69,144 km","₹3,24,399",1st Owner
+230,MarutiSwiftDzire,VXI AT Automatic,Automatic,Petrol,2015,"56,836 km","₹4,99,299",1st Owner
+231,VolkswagenPolo,HIGHLINE1.2L PETROL Manual,Manual,Petrol,2014,"70,475 km","₹4,09,699",1st Owner
+232,JeepCompass,2.0 LONGITUDE (O) Manual,Manual,Diesel,2018,"14,974 km","₹15,59,699",1st Owner
+233,MarutiBaleno,DELTA DDIS 190 Manual,Manual,Diesel,2017,"37,606 km","₹5,71,899",2nd Owner
+234,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2019,"1,278 km","₹5,79,299",1st Owner
+235,VolkswagenPolo,HIGHLINE1.2L PETROL Manual,Manual,Petrol,2015,"67,132 km","₹5,26,699",1st Owner
+236,HondaJazz,1.2 SV MT Manual,Manual,Petrol,2017,"41,659 km","₹5,48,399",2nd Owner
+237,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2015,"56,235 km","₹5,66,999",2nd Owner
+238,MarutiAltoK10,VXI Manual,Manual,Petrol,2017,"64,909 km","₹3,12,799",1st Owner
+239,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2018,"34,144 km","₹3,80,999",1st Owner
+240,MarutiBaleno,ZETA 1.2 K12 Manual,Manual,Petrol,2019,"8,872 km","₹7,12,699",2nd Owner
+241,MarutiSwift,VXI Manual,Manual,Petrol,2019,"6,240 km","₹6,42,599",1st Owner
+242,HyundaiEon,MAGNA PLUS Manual,Manual,Petrol,2016,"41,675 km","₹2,89,899",3rd Owner
+243,Hyundaii20Active,1.2 S Manual,Manual,Petrol,2015,"59,078 km","₹5,17,899",2nd Owner
+244,MarutiAlto800,LXI Manual,Manual,Petrol,2017,"69,430 km","₹2,87,999",1st Owner
+245,HyundaiElitei20,1.2 MAGNA PLUS VTVT ,,Petrol,2019,"11,855 km","₹6,01,199",2nd Owner
+246,MarutiCelerio,VXI Manual,Manual,Petrol,2018,"53,793 km","₹4,20,799",1st Owner
+247,MarutiSwift,VXI AMT Automatic,Automatic,Petrol,2019,"24,697 km","₹6,45,099",1st Owner
+248,MarutiSwift,VXI Manual,Manual,Petrol,2019,"14,448 km","₹6,33,299",1st Owner
+249,VolkswagenPolo,HIGHLINE1.2L PETROL Manual,Manual,Petrol,2015,"57,417 km","₹4,65,699",2nd Owner
+250,HyundaiVerna,1.6 SX+ VTVT AT Automatic,Automatic,Petrol,2019,"6,260 km","₹10,93,199",2nd Owner
+251,FordFigoAspire,1.2 TITANIUM PETROL Manual,Manual,Petrol,2018,"11,818 km","₹6,37,199",1st Owner
+252,Hyundaii20,SPORTZ 1.2 VTVT Manual,Manual,Petrol,2013,"70,271 km","₹3,95,999",2nd Owner
+253,HyundaiGrandi10,MAGNA 1.2 KAPPA VTVT Manual,Manual,Petrol,2018,"32,373 km","₹5,04,899",1st Owner
+254,MarutiSwift,VXI OPT Manual,Manual,Petrol,2016,"51,487 km","₹4,89,799",1st Owner
+255,FordFigoAspire,1.2 TITANIUM PETROL Manual,Manual,Petrol,2018,"20,192 km","₹6,03,599",1st Owner
+256,HondaBR-V,1.5 i-VTEC V CVT Automatic,Automatic,Petrol,2017,"38,235 km","₹8,06,199",3rd Owner
+257,HondaAmaze,1.2 V MT I-VTEC Manual,Manual,Petrol,2018,"17,180 km","₹6,60,799",1st Owner
+258,HondaJazz,1.2 VX AT Automatic,Automatic,Petrol,2019,"4,355 km","₹9,49,699",1st Owner
+259,MarutiSwift,LXI OPT Manual,Manual,Petrol,2016,"58,581 km","₹4,63,899",1st Owner
+260,MarutiBaleno,DELTA 1.2 K12 Manual,Manual,Petrol,2016,"61,435 km","₹5,24,199",1st Owner
+261,MarutiSwift,VXI Manual,Manual,Petrol,2017,"36,752 km","₹5,61,999",1st Owner
+262,HyundaiGrandi10,ASTA 1.2 KAPPA VTVT Manual,Manual,Petrol,2014,"64,857 km","₹4,16,199",2nd Owner
+263,HyundaiElitei20,SPORTZ (O) 1.2 Manual,Manual,Petrol,2015,"64,360 km","₹5,76,399",1st Owner
+264,HyundaiGrandi10,SPORTS 1.2 AT VTVT Automatic,Automatic,Petrol,2018,"31,627 km","₹5,32,499",1st Owner
+265,MarutiSwift,VXI Manual,Manual,Petrol,2019,"10,261 km","₹6,25,799",1st Owner
+266,MarutiCelerio,VXI AMT Automatic,Automatic,Petrol,2014,"66,622 km","₹3,60,599",4th Owner
+267,Hyundaii10,MAGNA 1.1 IRDE2 Manual,Manual,Petrol,2016,"59,780 km","₹4,13,599",1st Owner
+268,NissanMicra,XL CVT (PETROL) Automatic,Automatic,Petrol,2015,"60,468 km","₹4,32,499",1st Owner
+269,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2013,"64,654 km","₹4,16,399",1st Owner
+270,HondaBrio,1.2 S MT I VTEC Manual,Manual,Petrol,2013,"63,007 km","₹3,03,999",2nd Owner
+271,MarutiSwift,VXI Manual,Manual,Petrol,2019,"13,471 km","₹6,25,199",1st Owner
+272,HondaCity,V MT PETROL Manual,Manual,Petrol,2015,"70,131 km","₹5,73,199",2nd Owner
+273,HondaJazz,1.2 S MT Manual,Manual,Petrol,2018,"29,265 km","₹6,02,299",1st Owner
+274,TataNEXON,XZA + 1.2 PETROL A/T Automatic,Automatic,Petrol,2018,"26,444 km","₹8,50,599",1st Owner
+275,MarutiSwift,VXI Manual,Manual,Petrol,2017,"46,786 km","₹5,66,699",1st Owner
+276,MarutiErtiga,VDI SHVS Manual,Manual,Diesel,2017,"37,958 km","₹8,30,799",1st Owner
+277,MarutiVitaraBrezza,ZDI AMT Automatic,Automatic,Diesel,2019,"5,647 km","₹10,65,399",1st Owner
+278,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2019,"28,927 km","₹4,67,899",1st Owner
+279,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2015,"65,229 km","₹3,70,899",1st Owner
+280,HyundaiElitei20,ASTA 1.2 DUAL TONE Manual,Manual,Petrol,2017,"50,031 km","₹6,20,899",2nd Owner
+281,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2015,"47,238 km","₹5,04,899",2nd Owner
+282,MarutiCelerio,VXI Manual,Manual,Petrol,2016,"62,433 km","₹3,52,999",1st Owner
+283,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2016,"58,684 km","₹5,42,299",2nd Owner
+284,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2015,"74,575 km","₹4,96,399",1st Owner
+285,MarutiSwift,VXI Manual,Manual,Petrol,2019,"1,890 km","₹6,33,399",2nd Owner
+286,MarutiBaleno,ZETA 1.2 K12 CVT Automatic,Automatic,Petrol,2016,"53,571 km","₹6,19,599",1st Owner
+287,MarutiBaleno,DELTA 1.2 K12 Manual,Manual,Petrol,2017,"47,186 km","₹5,35,699",2nd Owner
+288,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2017,"36,416 km","₹5,91,499",1st Owner
+289,MarutiCelerio,ZXI AMT Automatic,Automatic,Petrol,2016,"57,563 km","₹4,18,999",1st Owner
+290,MarutiAlto800,LXI Manual,Manual,Petrol,2018,"34,457 km","₹3,35,999",2nd Owner
+291,HyundaiVerna,1.6 SX VTVT Manual,Manual,Petrol,2018,"35,859 km","₹9,79,799",1st Owner
+292,Hyundaii20,MAGNA O 1.2 Manual,Manual,Petrol,2013,"83,006 km","₹3,56,999",3rd Owner
+293,MahindraXUV500,W6 AT Automatic,Automatic,Diesel,2016,"27,043 km","₹10,59,799",1st Owner
+294,HyundaiElitei20,MAGNA 1.2 Manual,Manual,Petrol,2016,"52,129 km","₹5,46,799",1st Owner
+295,MarutiAlto800,LXI Manual,Manual,Petrol,2015,"60,562 km","₹2,60,799",1st Owner
+296,MarutiAlto800,LXI Manual,Manual,Petrol,2015,"61,643 km","₹2,83,499",1st Owner
+297,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2014,"83,907 km","₹4,77,899",1st Owner
+298,HondaJazz,1.2 VX AT ,,Petrol,2019,"5,183 km","₹9,51,199",1st Owner
+299,MarutiAlto800,LXI Manual,Manual,Petrol,2016,"59,197 km","₹2,84,899",1st Owner
+300,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2016,"53,820 km","₹5,49,099",1st Owner
+301,MarutiCelerio,ZXI AMT Automatic,Automatic,Petrol,2017,"54,780 km","₹4,46,799",1st Owner
+302,HyundaiGrandi10,SPORTZ 1.2 KAPPA VTVT Manual,Manual,Petrol,2016,"68,788 km","₹4,60,199",2nd Owner
+303,MarutiAlto800,VXI Manual,Manual,Petrol,2017,"74,463 km","₹3,38,499",1st Owner
+304,RenaultKwid,RXT 1.0 EASY-R AT OPTION Automatic,Automatic,Petrol,2019,"34,972 km","₹4,53,199",1st Owner
+305,VolkswagenPolo,COMFORTLINE 1.2L PETROL Manual,Manual,Petrol,2013,"77,021 km","₹3,49,099",2nd Owner
+306,MarutiDzire,VDI AMT Automatic,Automatic,Diesel,2017,"45,121 km","₹7,10,299",1st Owner
+307,VolkswagenVento,HIGHLINE PETROL Manual,Manual,Petrol,2018,"19,139 km","₹7,92,299",1st Owner
+308,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2015,"78,823 km","₹3,75,599",1st Owner
+309,Hyundaii10,SPORTZ 1.2 KAPPA2 Manual,Manual,Petrol,2013,"74,657 km","₹3,14,499",3rd Owner
+310,HondaAmaze,1.2 V CVT I VTEC ,,Petrol,2018,"29,177 km","₹6,75,899",1st Owner
+311,HyundaiEon,ERA PLUS Manual,Manual,Petrol,2017,"50,665 km","₹3,52,499",2nd Owner
+312,MarutiErtiga,VDI SHVS Manual,Manual,Diesel,2017,"14,614 km","₹8,59,199",1st Owner
+313,TataHexa,Varicor 400 XT Manual,Manual,Diesel,2019,"34,262 km","₹18,43,499",1st Owner
+314,MarutiSwift,VDI Manual,Manual,Diesel,2013,"88,137 km","₹4,19,999",2nd Owner
+315,MarutiBaleno,DELTA 1.2 K12 Manual,Manual,Petrol,2018,"47,586 km","₹5,86,499",1st Owner
+316,MarutiVitaraBrezza,VDI Manual,Manual,Diesel,2019,"24,368 km","₹8,62,299",1st Owner
+317,MarutiAltoK10,VXI Manual,Manual,Petrol,2016,"61,676 km","₹3,04,799",1st Owner
+318,HondaJazz,1.5 S MT Manual,Manual,Diesel,2017,"5,632 km","₹5,29,799",2nd Owner
+319,MarutiVitaraBrezza,ZDI PLUS Manual,Manual,Diesel,2018,"34,396 km","₹8,60,399",1st Owner
+320,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2014,"80,315 km","₹4,81,599",1st Owner
+321,MarutiIGNIS,DELTA 1.2 K12 Manual,Manual,Petrol,2018,"63,423 km","₹5,51,699",1st Owner
+322,MarutiAStar,VXI Manual,Manual,Petrol,2013,"75,162 km","₹2,79,299",1st Owner
+323,MarutiSwift,VDI Manual,Manual,Diesel,2015,"93,564 km","₹4,50,099",1st Owner
+324,MarutiSwift,VXI Manual,Manual,Petrol,2017,"60,464 km","₹5,56,099",1st Owner
+325,HyundaiElitei20,ASTA 1.4 CRDI Manual,Manual,Diesel,2015,"77,957 km","₹5,03,999",2nd Owner
+326,MarutiVitaraBrezza,ZDI PLUS DUAL TONE Manual,Manual,Diesel,2017,"53,498 km","₹8,43,699",1st Owner
+327,MarutiBaleno,ZETA 1.2 K12 Manual,Manual,Petrol,2016,"27,960 km","₹5,94,799",2nd Owner
+328,HyundaiVerna,1.6 SX VTVT AT (O) Automatic,Automatic,Petrol,2018,"26,281 km","₹9,95,399",1st Owner
+329,HondaBR-V,1.5 i-VTEC VX Manual,Manual,Petrol,2016,"93,157 km","₹6,79,199",2nd Owner
+330,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2017,"82,239 km","₹4,03,399",1st Owner
+331,HyundaiGrandi10,ASTA 1.2 KAPPA VTVT Manual,Manual,Petrol,2018,"54,187 km","₹5,15,199",1st Owner
+332,VolkswagenPolo,HIGHLINE1.2L PETROL Manual,Manual,Petrol,2017,"82,331 km","₹5,45,299",1st Owner
+333,MarutiSwift,VDI ABS Manual,Manual,Diesel,2016,"73,401 km","₹5,04,999",1st Owner
+334,MarutiDzire,ZDI Plus AMT Automatic,Automatic,Diesel,2017,"76,040 km","₹6,53,799",1st Owner
+335,MarutiSwift,VDI AMT Automatic,Automatic,Diesel,2018,"66,411 km","₹6,36,499",1st Owner
+336,MarutiDzire,VDI AMT Automatic,Automatic,Diesel,2017,"66,343 km","₹6,00,699",1st Owner
+337,HyundaiGrandi10,SPORTZ O 1.2 Manual,Manual,Petrol,2018,"47,614 km","₹4,98,899",1st Owner
+338,HyundaiElitei20,ASTA 1.2 (O) Manual,Manual,Petrol,2017,"61,695 km","₹6,45,399",1st Owner
+339,MarutiSCross,SIGMA SHVS Manual,Manual,Diesel,2019,"20,110 km","₹8,91,899",1st Owner
+340,MarutiSwift,VXI Manual,Manual,Petrol,2016,"72,059 km","₹5,16,099",1st Owner
+341,MarutiAlto800,VXI Manual,Manual,Petrol,2018,"72,301 km","₹3,57,899",1st Owner
+342,HyundaiCreta,1.6 SX VTVT Manual,Manual,Petrol,2018,"60,276 km","₹10,34,899",1st Owner
+343,HyundaiElitei20,1.4 CRDI ASTA (O) Manual,Manual,Diesel,2017,"65,655 km","₹6,68,199",1st Owner
+344,HondaCity,V MT PETROL Manual,Manual,Petrol,2015,"79,725 km","₹5,68,899",3rd Owner
+345,MahindraXylo,H4 ABS BS IV Manual,Manual,Diesel,2017,"63,953 km","₹6,89,999",1st Owner
+346,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2014,"76,652 km","₹4,64,599",1st Owner
+347,TataHexa,Varicor 400 XT Manual,Manual,Diesel,2019,"46,337 km","₹17,96,099",1st Owner
+348,HondaCity,SV MT PETROL Manual,Manual,Petrol,2017,"68,719 km","₹7,05,599",1st Owner
+349,HyundaiElitei20,ASTA 1.2 (O) Manual,Manual,Petrol,2018,"53,273 km","₹6,70,799",1st Owner
+350,MarutiVitaraBrezza,ZDI PLUS Manual,Manual,Diesel,2018,"48,151 km","₹9,48,099",1st Owner
+351,VolkswagenPolo,HIGHLINE1.2L PETROL Manual,Manual,Petrol,2016,"94,161 km","₹5,54,399",1st Owner
+352,MarutiWagonR1.0,VXI OPT AMT Automatic,Automatic,Petrol,2016,"72,804 km","₹4,60,399",1st Owner
+353,FordEcosport,1.5AMBIENTE TI VCT Manual,Manual,Petrol,2015,"85,750 km","₹5,34,299",1st Owner
+354,MarutiErtiga,VXI Manual,Manual,Petrol,2013,"86,720 km","₹5,31,399",1st Owner
+355,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2016,"81,412 km","₹5,55,799",1st Owner
+356,MarutiSwift,VXI Manual,Manual,Petrol,2015,"86,119 km","₹4,49,399",2nd Owner
+357,HyundaiGrandi10,SPORTZ 1.2 KAPPA VTVT Manual,Manual,Petrol,2016,"77,847 km","₹4,28,699",1st Owner
+358,MarutiAlto800,LXI Manual,Manual,Petrol,2013,"84,015 km","₹2,21,799",3rd Owner
+359,MarutiBaleno,DELTA DDIS 190 Manual,Manual,Diesel,2016,"83,205 km","₹5,36,699",2nd Owner
+360,MahindraTUV300,T8 Manual,Manual,Diesel,2016,"82,252 km","₹6,32,499",1st Owner
+361,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2013,"85,672 km","₹4,12,899",2nd Owner
+362,VolkswagenPolo,TRENDLINE 1.5L DIESEL Manual,Manual,Diesel,2014,"87,035 km","₹4,16,699",2nd Owner
+363,MarutiSwiftDzire,LDI BS IV Manual,Manual,Diesel,2013,"95,428 km","₹4,10,199",1st Owner
+364,HyundaiCreta,1.6 SX CRDI ,,Diesel,2017,"1,23,713 km","₹8,71,299",2nd Owner
+365,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2015,"79,674 km","₹5,50,999",1st Owner
+366,MarutiSCross,ZETA 1.3 Manual,Manual,Diesel,2016,"1,03,019 km","₹6,29,299",3rd Owner
+367,HyundaiElitei20,ASTA 1.2 (O) Manual,Manual,Petrol,2016,"81,583 km","₹5,81,399",1st Owner
+368,MarutiRitz,VXI BS IV Manual,Manual,Petrol,2013,"86,707 km","₹3,57,399",1st Owner
+369,HondaCity,V MT PETROL Manual,Manual,Petrol,2017,"81,387 km","₹7,62,199",1st Owner
+370,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2013,"84,775 km","₹4,30,799",1st Owner
+371,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2016,"67,425 km","₹5,64,499",1st Owner
+372,MahindraTUV300,T 10 MT Dual Tone ,,Diesel,2018,"89,421 km","₹7,22,899",1st Owner
+373,MarutiSCross,DELTA 1.3 Manual,Manual,Diesel,2016,"81,558 km","₹6,29,599",1st Owner
+374,MarutiCiaz,ALPHA 1.5 AT VTVT SHVS ,,Petrol,2019,"43,775 km","₹8,59,699",1st Owner
+375,MarutiCelerio,VXI AMT Automatic,Automatic,Petrol,2015,"70,423 km","₹3,76,599",1st Owner
+376,MarutiSwiftDzire,VDI ABS ,,Diesel,2015,"95,763 km","₹5,09,699",1st Owner
+377,MarutiCiaz,ALPHA 1.4 VVT Manual,Manual,Petrol,2017,"89,981 km","₹6,60,799",1st Owner
+378,Hyundaii10,MAGNA 1.2 KAPPA2 Manual,Manual,Petrol,2013,"92,104 km","₹3,13,899",2nd Owner
+379,FordEcosport,1.5TITANIUM TDCI Manual,Manual,Diesel,2015,"97,862 km","₹5,88,299",1st Owner
+380,FordEcosport,1.5 TITANIUMTDCI OPT Manual,Manual,Diesel,2016,"97,408 km","₹5,87,599",1st Owner
+381,HondaAmaze,1.5 EXMT I DTEC Manual,Manual,Diesel,2014,"1,06,819 km","₹3,91,399",1st Owner
+382,HyundaiElitei20,ASTA 1.4 CRDI Manual,Manual,Diesel,2014,"94,243 km","₹5,35,899",1st Owner
+383,HyundaiElitei20,ASTA 1.4 CRDI Manual,Manual,Diesel,2016,"1,01,736 km","₹5,84,899",1st Owner
+384,FordEcosport,1.5 TDCI TITANIUM PLUS Manual,Manual,Diesel,2017,"89,694 km","₹7,14,899",2nd Owner
+385,MarutiErtiga,ZDI Manual,Manual,Diesel,2013,"82,386 km","₹5,56,299",1st Owner
+386,HyundaiVerna,FLUIDIC 1.6 SX CRDI OPT Manual,Manual,Diesel,2014,"95,959 km","₹6,20,199",1st Owner
+387,MahindraTUV300,T8 Manual,Manual,Diesel,2016,"1,10,265 km","₹6,33,999",1st Owner
+388,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2015,"1,05,026 km","₹4,48,899",1st Owner
+389,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2013,"1,05,555 km","₹4,24,699",2nd Owner
+390,HyundaiCreta,1.6 CRDI SX PLUS AUTO Automatic,Automatic,Diesel,2016,"1,08,259 km","₹9,14,199",1st Owner
+391,VolkswagenPolo,COMFORTLINE 1.2L DIESEL Manual,Manual,Diesel,2013,"1,02,496 km","₹3,09,099",2nd Owner
+392,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2013,"1,19,674 km","₹4,42,399",1st Owner
+393,HyundaiElitei20,ASTA 1.4 CRDI Manual,Manual,Diesel,2014,"74,476 km","₹5,68,599",1st Owner
+394,MarutiNewWagon-R,ZXI 1.2 Manual,Manual,Petrol,2019,"84,012 km","₹4,90,099",1st Owner
+395,HyundaiCreta,1.6 CRDI SX PLUS AUTO Automatic,Automatic,Diesel,2015,"81,864 km","₹8,32,299",1st Owner
+396,MarutiVitaraBrezza,ZDI Manual,Manual,Diesel,2017,"99,381 km","₹7,21,399",1st Owner
+397,HyundaiCreta,1.6 SX CRDI ,,Diesel,2017,"1,12,774 km","₹8,96,899",1st Owner
+398,HyundaiElitei20,ASTA 1.4 CRDI Manual,Manual,Diesel,2015,"1,19,913 km","₹5,40,499",1st Owner
+399,MarutiVitaraBrezza,VDI Manual,Manual,Diesel,2016,"83,813 km","₹6,25,799",1st Owner
+400,MarutiSwift,VXI Manual,Manual,Petrol,2015,"1,19,927 km","₹4,27,499",1st Owner
+401,RenaultDuster,RXZ DIESEL 110 Manual,Manual,Diesel,2013,"93,129 km","₹5,91,399",1st Owner
+402,FordEcosport,1.5 TITANIUM TI VCT AT Automatic,Automatic,Petrol,2014,"1,35,385 km","₹5,21,699",1st Owner
+403,MarutiSwift,VXI Manual,Manual,Petrol,2018,"75,890 km","₹6,09,899",1st Owner
+404,VolkswagenVento,HIGHLINE DIESEL Manual,Manual,Diesel,2016,"1,04,708 km","₹5,38,399",2nd Owner
+405,HyundaiGrandi10,1.2 ASTA (O) AT Automatic,Automatic,Petrol,2016,"95,872 km","₹4,97,199",1st Owner
+406,MarutiSwiftDzire,ZDI Manual,Manual,Diesel,2013,"1,99,145 km","₹3,90,399",1st Owner
+407,ToyotaInnovaCrysta,2.4 ZX 7 STR Manual,Manual,Diesel,2016,"2,76,979 km","₹14,93,499",1st Owner
+408,MarutiSwiftDzire,VDI BS IV Manual,Manual,Diesel,2013,"1,62,266 km","₹4,23,499",1st Owner
+409,NissanTerrano,XV D THP PREMIUM 110 PS Manual,Manual,Diesel,2015,"1,53,233 km","₹4,91,199",1st Owner
+410,HyundaiTucsonNew,2WD AT GLS DIESEL Automatic,Automatic,Diesel,2016,"1,32,269 km","₹11,96,699",1st Owner
+411,FordEcosport,1.5 TITANIUM TI VCT AT Automatic,Automatic,Petrol,2015,"1,24,096 km","₹5,36,099",1st Owner
+412,MarutiSwift,VDI ABS Manual,Manual,Diesel,2016,"1,46,889 km","₹4,80,899",1st Owner
+413,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2014,"1,14,075 km","₹3,35,499",1st Owner
+414,Hyundaii10,MAGNA 1.1 IRDE2 Manual,Manual,Petrol,2014,"1,48,169 km","₹3,16,999",1st Owner
+415,Hyundaii20Active,1.2 S Manual,Manual,Petrol,2016,"1,36,089 km","₹5,04,399",1st Owner
+416,HyundaiElitei20,ASTA 1.4 CRDI Manual,Manual,Diesel,2014,"1,04,390 km","₹5,37,799",1st Owner
+417,RenaultDuster,85 PS RXE Manual,Manual,Diesel,2013,"1,73,978 km","₹4,50,699",3rd Owner
+418,HyundaiXcent,S 1.2 Manual,Manual,Petrol,2015,"2,34,911 km","₹3,54,199",1st Owner
+419,HyundaiCreta,1.6 SX PLUS VTVT Manual,Manual,Petrol,2016,"1,27,733 km","₹7,70,499",1st Owner
+420,MahindraXUV500,W10 Manual,Manual,Diesel,2016,"1,63,495 km","₹11,14,199",1st Owner
+421,MarutiSwift,ZDI AMT Automatic,Automatic,Diesel,2018,"1,13,765 km","₹6,47,499",1st Owner
+422,MarutiCelerio,ZXI AMT Automatic,Automatic,Petrol,2016,"1,48,728 km","₹4,14,799",1st Owner
+423,RenaultLodgy,110 PS RXZ 8 STR Manual,Manual,Diesel,2015,"1,38,510 km","₹7,55,199",1st Owner
+424,HyundaiCreta,1.6 BASE Manual,Manual,Petrol,2016,"1,82,203 km","₹5,95,599",1st Owner
+425,MahindraXylo,H8 ABS AIRBAG BS IV Manual,Manual,Diesel,2017,"2,12,781 km","₹7,14,299",1st Owner
+426,ToyotaInnova,2.5 GX 7 STR BS IV Manual,Manual,Diesel,2014,"1,23,683 km","₹10,29,899",1st Owner
+427,VolkswagenPolo,HIGHLINE1.5L DIESEL Manual,Manual,Diesel,2016,"1,47,338 km","₹5,77,499",2nd Owner
+428,ToyotaInnova,2.5 VX 7 STR BS IV Manual,Manual,Diesel,2013,"2,21,916 km","₹8,51,299",1st Owner
+429,MarutiSwiftDzire,ZDI Manual,Manual,Diesel,2016,"1,66,618 km","₹5,97,899",1st Owner
+430,FordEcosport,1.5 TITANIUM TI VCT AT Automatic,Automatic,Petrol,2016,"1,54,048 km","₹5,61,699",1st Owner
+431,HyundaiGrandi10,MAGNA 1.2 KAPPA VTVT Manual,Manual,Petrol,2018,"4,241 km","₹5,19,199",1st Owner
+432,MarutiAlto800,VXI Manual,Manual,Petrol,2014,"29,878 km","₹2,46,899",1st Owner
+433,MarutiOMNIE,8 STR ,,Petrol,2017,"14,867 km","₹3,37,699",1st Owner
+434,MarutiAltoK10,VXI Manual,Manual,Petrol,2013,"16,288 km","₹2,67,699",2nd Owner
+435,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2014,"24,663 km","₹3,65,099",1st Owner
+436,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2013,"35,140 km","₹3,61,999",1st Owner
+437,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2016,"34,329 km","₹5,91,199",2nd Owner
+438,MarutiOMNIE,8 STR ,,Petrol,2017,"19,759 km","₹3,15,999",1st Owner
+439,HyundaiEon,ERA PLUS Manual,Manual,Petrol,2013,"57,322 km","₹2,51,799",1st Owner
+440,MarutiAltoK10,VXI AMT ,,Petrol,2016,"49,350 km","₹3,42,399",3rd Owner
+441,MarutiAlto800,VXI Manual,Manual,Petrol,2014,"50,917 km","₹2,19,599",1st Owner
+442,MarutiWagonR1.0,VXI Manual,Manual,Petrol,2015,"45,929 km","₹3,56,099",1st Owner
+443,FordEcosport,1.5TITANIUM TDCI Manual,Manual,Diesel,2018,"86,881 km","₹7,40,899",1st Owner
+444,MarutiAltoK10,VXI Manual,Manual,Petrol,2013,"68,748 km","₹2,59,399",1st Owner
+445,HyundaiElitei20,ASTA 1.2 (O) Manual,Manual,Petrol,2019,"23,881 km","₹7,53,499",1st Owner
+446,MarutiAltoK10,VXI Manual,Manual,Petrol,2015,"60,384 km","₹2,86,499",2nd Owner
+447,MarutiAlto800,LXI Manual,Manual,Petrol,2014,"65,487 km","₹2,29,199",1st Owner
+448,MarutiCelerio,VXI AMT Automatic,Automatic,Petrol,2015,"64,404 km","₹3,79,399",1st Owner
+449,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2015,"78,971 km","₹5,32,499",3rd Owner
+450,MarutiBaleno,ALPHA 1.2 K12 Manual,Manual,Petrol,2018,"58,598 km","₹6,39,699",1st Owner
+451,FordEcosport,1.5TITANIUM TDCI Manual,Manual,Diesel,2013,"84,769 km","₹4,37,899",1st Owner
+452,HyundaiCreta,1.6 SX CRDI ,,Diesel,2017,"97,959 km","₹9,04,599",1st Owner
+453,HyundaiGrandi10,ASTA 1.2 (O) VTVT Manual,Manual,Petrol,2014,"9,395 km","₹4,62,699",1st Owner
+454,Hyundaii10,MAGNA 1.1 IRDE2 Manual,Manual,Petrol,2014,"2,876 km","₹3,72,999",1st Owner
+455,VolkswagenPolo,HIGHLINE1.2L PETROL Manual,Manual,Petrol,2016,"1,987 km","₹6,03,199",1st Owner
+456,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2014,"29,179 km","₹5,26,099",1st Owner
+457,HyundaiGrandi10,MAGNA 1.2 VTVT Manual,Manual,Petrol,2015,"16,026 km","₹4,31,099",1st Owner
+458,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2015,"26,260 km","₹3,39,799",2nd Owner
+459,MarutiAlto800,LXI Manual,Manual,Petrol,2017,"2,260 km","₹3,28,499",1st Owner
+460,MarutiAlto800,LXI OPT Manual,Manual,Petrol,2018,"3,863 km","₹3,39,099",1st Owner
+461,MarutiAltoK10,VXI AMT Automatic,Automatic,Petrol,2015,"26,376 km","₹3,33,499",2nd Owner
+462,HyundaiEon,ERA PLUS Manual,Manual,Petrol,2016,"25,086 km","₹3,20,299",1st Owner
+463,Hyundaii20,SPORTZ 1.2 VTVT Manual,Manual,Petrol,2013,"14,881 km","₹4,20,199",1st Owner
+464,RenaultKwid,1.0 RXT Manual,Manual,Petrol,2016,"29,112 km","₹3,24,799",1st Owner
+465,RenaultTRIBER,1.0 RXZ Manual,Manual,Petrol,2020,"8,561 km","₹6,48,499",1st Owner
+466,MarutiIGNIS,ALPHA 1.2 K12 DUAL TONE Manual,Manual,Petrol,2017,"17,062 km","₹4,57,699",1st Owner
+467,MarutiEeco,5 STR WITH AC PLUSHTR Manual,Manual,Petrol,2015,"19,815 km","₹3,10,399",2nd Owner
+468,MarutiSwift,LXI OPT Manual,Manual,Petrol,2016,"10,560 km","₹4,95,699",1st Owner
+469,MarutiNewWagon-R,VXI 1.2L ,,Petrol,2019,"10,762 km","₹5,42,899",1st Owner
+470,VolkswagenAmeo,HIGHLINE PLUS 1.0 Manual,Manual,Petrol,2018,"18,112 km","₹5,53,399",1st Owner
+471,MarutiSwift,VXI Manual,Manual,Petrol,2015,"29,962 km","₹4,87,999",1st Owner
+472,HyundaiGrandi10,SPORTS 1.2 VTVT Manual,Manual,Petrol,2014,"46,161 km","₹4,06,199",1st Owner
+473,Hyundaii10,MAGNA 1.1 IRDE2 Manual,Manual,Petrol,2014,"35,571 km","₹3,37,699",1st Owner
+474,MarutiBaleno,DELTA 1.2 K12 AT Automatic,Automatic,Petrol,2018,"23,653 km","₹5,85,399",1st Owner
+475,HondaJazz,1.2 SV MT Manual,Manual,Petrol,2016,"21,601 km","₹5,33,199",2nd Owner
+476,HyundaiVerna,FLUIDIC 1.6 VTVT SX AT Automatic,Automatic,Petrol,2014,"53,081 km","₹5,31,499",1st Owner
+477,TataTiago,XZ 1.2 REVOTRON Manual,Manual,Petrol,2016,"44,449 km","₹3,93,599",1st Owner
+478,TataTiago,XZ 1.2 REVOTRON Manual,Manual,Petrol,2018,"15,346 km","₹5,14,399",1st Owner
+479,FiatGrandPunto,ACTIVE 1.3 Manual,Manual,Diesel,2014,"46,804 km","₹2,67,199",3rd Owner
+480,HyundaiVerna,FLUIDIC 1.6 SX CRDI Manual,Manual,Diesel,2013,"48,540 km","₹4,89,799",1st Owner
+481,MarutiSwift,VXI Manual,Manual,Petrol,2017,"35,774 km","₹5,38,999",1st Owner
+482,HyundaiElitei20,ASTA 1.2 (O) Manual,Manual,Petrol,2016,"25,632 km","₹6,20,699",1st Owner
+483,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2017,"24,203 km","₹6,06,999",1st Owner
+484,MarutiIGNIS,ZETA 1.2 K12 DUAL TONE Manual,Manual,Petrol,2017,"42,179 km","₹4,73,499",1st Owner
+485,MarutiAlto800,LXI Manual,Manual,Petrol,2019,"15,919 km","₹3,22,699",1st Owner
+486,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2015,"47,445 km","₹4,70,099",1st Owner
+487,MarutiSwift,ZXI Manual,Manual,Petrol,2014,"47,529 km","₹4,67,099",2nd Owner
+488,MarutiAlto800,LXI Manual,Manual,Petrol,2014,"54,447 km","₹2,49,099",2nd Owner
+489,HyundaiVerna,FLUIDIC 1.6 VTVT S (O)  MT Manual,Manual,Petrol,2015,"52,025 km","₹5,59,899",2nd Owner
+490,HyundaiGRANDI10NIOS,Asta Petrol Manual,Manual,Petrol,2019,"9,850 km","₹6,16,999",1st Owner
+491,HyundaiEon,D LITE PLUS Manual,Manual,Petrol,2016,"39,041 km","₹2,75,499",1st Owner
+492,HyundaiGrandi10,ASTA 1.2 KAPPA VTVT Manual,Manual,Petrol,2018,"27,108 km","₹5,16,699",2nd Owner
+493,MarutiSwift,VXI Manual,Manual,Petrol,2014,"53,117 km","₹4,28,699",1st Owner
+494,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2017,"46,766 km","₹5,51,999",1st Owner
+495,Hyundaii20Active,1.2 SX Manual,Manual,Petrol,2016,"50,036 km","₹5,93,599",1st Owner
+496,RenaultLodgy,110 PS RXZ 8 STR Manual,Manual,Diesel,2015,"10,507 km","₹6,91,299",1st Owner
+497,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2015,"24,687 km","₹5,68,799",1st Owner
+498,SkodaSuperb,ELEGANCE 1.8 TSI MT Manual,Manual,Petrol,2014,"48,862 km","₹6,91,299",2nd Owner
+499,MarutiSwift,VDI ABS Manual,Manual,Diesel,2014,"61,230 km","₹5,02,299",1st Owner
+500,RenaultKwid,RXL1.0 EASY-R AT ,,Petrol,2017,"68,865 km","₹3,29,699",1st Owner
+501,HyundaiElitei20,Magna Executive 1.2 Manual,Manual,Petrol,2018,"21,569 km","₹5,89,399",1st Owner
+502,HyundaiVENUE,S MT 1.2 KAPPA Manual,Manual,Petrol,2020,"17,363 km","₹7,84,299",1st Owner
+503,VolkswagenVento,HIGHLINE PETROL Manual,Manual,Petrol,2016,"44,001 km","₹6,79,199",1st Owner
+504,HyundaiEon,D LITE PLUS Manual,Manual,Petrol,2013,"62,306 km","₹2,29,899",1st Owner
+505,HondaCity,V MT PETROL Manual,Manual,Petrol,2015,"61,592 km","₹5,71,699",2nd Owner
+506,HondaJazz,1.2 V MT Manual,Manual,Petrol,2019,"16,519 km","₹6,34,599",1st Owner
+507,MarutiBaleno,DELTA 1.2 K12 Manual,Manual,Petrol,2016,"42,411 km","₹5,20,599",1st Owner
+508,FiatGrandPunto,DYNAMIC 1.3 Manual,Manual,Diesel,2014,"63,424 km","₹2,52,099",2nd Owner
+509,HyundaiElitei20,ASTA 1.4 CRDI Manual,Manual,Diesel,2017,"41,729 km","₹6,61,999",1st Owner
+510,MarutiWagonRStingray,VXI Manual,Manual,Petrol,2013,"62,227 km","₹3,31,799",1st Owner
+511,MarutiBaleno,ZETA 1.2 K12 Manual,Manual,Petrol,2019,"18,253 km","₹6,93,999",1st Owner
+512,VolkswagenPolo,GT TSI 1.2 PETROL AT Automatic,Automatic,Petrol,2017,"35,885 km","₹7,04,699",1st Owner
+513,MarutiCiaz,VDI+ SHVS Manual,Manual,Diesel,2016,"41,753 km","₹5,14,899",2nd Owner
+514,MarutiCelerio,ZXI OPT AMT Automatic,Automatic,Petrol,2017,"74,843 km","₹4,22,299",1st Owner
+515,MarutiRitz,ZDI Manual,Manual,Diesel,2015,"95,891 km","₹3,57,299",1st Owner
+516,HyundaiElitei20,Magna Executive 1.2 Manual,Manual,Petrol,2018,"28,667 km","₹6,12,699",1st Owner
+517,HyundaiElitei20,ASTA 1.2 Manual,Manual,Petrol,2015,"52,909 km","₹5,60,199",1st Owner
+518,HyundaiElitei20,SPORTZ 1.2 Manual,Manual,Petrol,2018,"36,767 km","₹5,89,799",1st Owner
+519,MarutiErtiga,VDI ABS Manual,Manual,Diesel,2013,"68,679 km","₹5,73,799",1st Owner
+520,HyundaiVENUE,1.0 TURBO GDI SX+ AT ,,Petrol,2020,"15,076 km","₹10,49,399",2nd Owner
+521,MarutiBaleno,ALPHA 1.2 K12 Manual,Manual,Petrol,2018,"41,887 km","₹6,51,099",2nd Owner
+522,HyundaiCreta,1.6 VTVT SX AUTO Automatic,Automatic,Petrol,2019,"17,855 km","₹12,24,699",2nd Owner
+523,MarutiIGNIS,ZETA 1.2 K12 Manual,Manual,Petrol,2018,"50,448 km","₹4,56,299",1st Owner
+524,HyundaiCreta,1.6 SX PLUS DIESEL Manual,Manual,Diesel,2018,"36,684 km","₹11,18,399",1st Owner
+525,MarutiSwift,VXI AMT Automatic,Automatic,Petrol,2019,"13,523 km","₹6,58,399",1st Owner
+526,HondaWR-V,1.5 i-DTEC VX MT Manual,Manual,Diesel,2019,"32,568 km","₹8,93,699",1st Owner
+527,MarutiSwift,VDI ABS Manual,Manual,Diesel,2015,"73,530 km","₹4,69,999",1st Owner
+528,HondaWR-V,1.5 i-DTEC VX MT Manual,Manual,Diesel,2019,"30,092 km","₹9,09,199",1st Owner
+529,MarutiCelerio,ZXI ABS AMT Automatic,Automatic,Petrol,2016,"92,930 km","₹3,94,899",1st Owner
+530,RenaultKwid,RXT Manual,Manual,Petrol,2016,"62,491 km","₹3,08,499",1st Owner
+531,HondaWR-V,1.5 i-DTEC VX MT Manual,Manual,Diesel,2017,"45,633 km","₹6,78,799",1st Owner
+532,FordEcosport,1.5 TDCI TITANIUM PLUS Manual,Manual,Diesel,2017,"59,953 km","₹6,77,999",2nd Owner
+533,MarutiSwift,VDI ABS Manual,Manual,Diesel,2015,"65,160 km","₹4,57,599",2nd Owner
+534,HyundaiCreta,1.6 SX CRDI ,,Diesel,2018,"47,876 km","₹11,12,799",1st Owner
+535,HondaBR-V,1.5 i-VTEC VX Manual,Manual,Petrol,2017,"37,711 km","₹8,75,099",1st Owner
+536,MarutiSwiftDzire,VDI ABS Manual,Manual,Diesel,2015,"85,558 km","₹5,14,199",1st Owner
+537,MarutiErtiga,VDI ABS Manual,Manual,Diesel,2013,"75,384 km","₹5,81,799",1st Owner
+538,MarutiSwift,VXI Manual,Manual,Petrol,2019,"35,634 km","₹6,01,399",1st Owner
+539,MarutiCiaz,SIGMA 1.3 DDIS SHVS Manual,Manual,Diesel,2017,"87,908 km","₹5,58,799",1st Owner
+540,HondaCity,V MT PETROL Manual,Manual,Petrol,2013,"74,119 km","₹4,65,399",2nd Owner
+541,MahindraXUV500,W7 FWD Manual,Manual,Diesel,2018,"68,112 km","₹11,96,599",1st Owner
+542,MahindraXUV3OO,W8(O) Manual,Manual,Diesel,2019,"14,187 km","₹11,54,499",1st Owner
+543,HyundaiElitei20,Magna Executive Diesel Manual,Manual,Diesel,2018,"49,485 km","₹6,51,499",1st Owner
+544,HondaJazz,1.2 V AT Automatic,Automatic,Petrol,2015,"81,461 km","₹4,83,099",2nd Owner
+545,HyundaiSantaFe,2WD AT Automatic,Automatic,Diesel,2016,"93,127 km","₹8,75,699",1st Owner
+546,VolkswagenPolo,HIGHLINE1.5L DIESEL Manual,Manual,Diesel,2017,"64,360 km","₹5,40,999",2nd Owner
+547,MahindraXUV500,W10 Manual,Manual,Diesel,2015,"1,07,622 km","₹10,61,999",1st Owner
+548,HyundaiGrandi10,ASTA AT 1.2 KAPPA VTVT Automatic,Automatic,Petrol,2015,"83,617 km","₹4,00,799",1st Owner
+549,HyundaiCreta,1.6 SX PLUS DIESEL Manual,Manual,Diesel,2018,"45,311 km","₹11,10,299",1st Owner
+550,JeepCompass,2.0 LIMITED Manual,Manual,Diesel,2017,"24,303 km","₹14,68,599",1st Owner
+551,MarutiSwift,VDI Manual,Manual,Diesel,2013,"99,401 km","₹3,88,299",1st Owner
+552,MarutiSwiftDzire,VXI 1.2 BS IV Manual,Manual,Petrol,2015,"95,389 km","₹4,56,699",1st Owner
+553,AudiQ3,2.0 TDI Automatic,Automatic,Diesel,2014,"67,509 km","₹12,69,599",2nd Owner
+554,MarutiCelerio,VXI Manual,Manual,Petrol,2015,"89,237 km","₹3,27,599",2nd Owner
+555,MarutiSwift,VXI Manual,Manual,Petrol,2013,"1,03,981 km","₹3,98,299",1st Owner
+556,HondaCRV,2.4 AWD AT Manual,Manual,Petrol,2015,"80,621 km","₹11,51,099",1st Owner
+557,HondaAmaze,1.2 SMT I VTEC Manual,Manual,Petrol,2015,"96,366 km","₹4,34,599",1st Owner
+558,VolkswagenPolo,HIGHLINE1.5L DIESEL Manual,Manual,Diesel,2014,"1,70,685 km","₹3,33,299",2nd Owner
+559,HyundaiGrandi10,ASTA AT 1.2 KAPPA VTVT Manual,Manual,Petrol,2014,"1,10,322 km","₹3,47,599",1st Owner
+560,RenaultDuster,RXZ AMT 110 PS Automatic,Automatic,Diesel,2016,"1,04,769 km","₹7,11,199",1st Owner
+561,HyundaiElitei20,1.4 SPORTS PLUS CRDI ,,Diesel,2019,"89,264 km","₹6,72,599",1st Owner
+562,HondaCity,SV MT DIESEL Manual,Manual,Diesel,2014,"97,746 km","₹5,13,099",1st Owner
+563,MarutiSwift,ZDI Manual,Manual,Diesel,2015,"1,05,021 km","₹4,49,899",1st Owner
+564,RenaultDuster,85 PS RXE Manual,Manual,Diesel,2014,"1,21,663 km","₹4,23,499",2nd Owner
+565,ToyotaInnovaCrysta,2.4 ZX 7 STR Manual,Manual,Diesel,2016,"1,54,390 km","₹15,33,299",1st Owner
+566,Hyundaii20,SPORTZ 1.4 CRDI Manual,Manual,Diesel,2013,"1,15,703 km","₹3,19,599",2nd Owner
+567,HyundaiCreta,1.6 CRDI SX PLUS AUTO Automatic,Automatic,Diesel,2016,"1,36,583 km","₹8,12,699",1st Owner
+568,FordEcosport,1.5TITANIUM TDCI Manual,Manual,Diesel,2020,"11,520 km","₹9,73,299",1st Owner
+569,MarutiAltoK10,VXI Manual,Manual,Petrol,2015,"95,412 km","₹2,18,499",1st Owner
+570,RenaultKwid,RXT Manual,Manual,Petrol,2017,"42,399 km","₹3,15,499",1st Owner
+571,HyundaiGrandi10,MAGNA 1.2 KAPPA VTVT Manual,Manual,Petrol,2017,"14,965 km","₹4,91,899",1st Owner
+572,HyundaiCreta,1.6 SX (O) VTVT Manual,Manual,Petrol,2018,"18,813 km","₹9,25,099",1st Owner
+573,VolkswagenAmeo,COMFORTLINE 1.2 Manual,Manual,Petrol,2017,"48,014 km","₹4,61,199",1st Owner
+574,MarutiVitaraBrezza,ZDI Manual,Manual,Diesel,2016,"62,482 km","₹6,77,999",1st Owner
+575,HyundaiVerna,FLUIDIC 1.6 SX VTVT OPT AT Automatic,Automatic,Petrol,2013,"67,799 km","₹4,35,499",2nd Owner
