@@ -1,0 +1,39 @@
+Segregate personal photos on phone using the python face_recognition package 
+
+
+I have a large number of photos stored in my phone that I do not delete periodically and they end up consuming a lot of storage to the extent that I will be forced to delete them. It is not easy to scroll through 300+ photos and choose the ones to be deleted. Most of the photos that need to be preserved are those of my children. So I came up with a program to segregate their photos alone from the rest of the photos. 
+
+I have used the face_recognition package. 
+
+Pip install cmake, dlib, face_recognition
+
+
+I run this package to create face encodings for a reference photo of my daughters. 
+
+known_image = face_recognition.load_image_file(file_path)
+known_encoding = face_recognition.face_encodings(known_image)[0]
+
+I copy the list of photos to be regrouped from my phone and execute the following lines of code:
+
+for i in range(len(list_of_files)):
+    print(list_of_files[I]).  #each of the photo 
+    
+    unknown_image = face_recognition.load_image_file(list_of_files[i])
+    try:
+        unknown_encoding = face_recognition.face_encodings(unknown_image)[0]
+    except IndexError as e:
+        print(e)
+        continue. #some photos may not have a face so catch such errors 
+    
+    #print(unknown_encoding)
+    results = face_recognition.compare_faces([known_encoding], unknown_encoding)
+
+    if (results == [True]):  #if photo is of my daughters’, copy it to Output1 folder, else copy it to Output2 folder 
+        shutil.copy(list_of_files[i],’/Users/hemaaravind/Downloads/Output1/')
+
+    else:
+        shutil.copy(list_of_files[i],’/Users/hemaaravind/Downloads/Output2/')
+
+
+This gives a decent accuracy. I had to regroup a few photos that were grouped wrongly; most of the photos were grouped correctly. This was a much easier and less time consuming way of segregating photos. 
+
